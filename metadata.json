@@ -1,0 +1,6 @@
+{
+  "name": "Agenda Pessoal",
+  "description": "Aplicativo de agenda pessoal moderno com calendário interativo, post-its virtuais e gerenciador de datas importantes com contagem regressiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
